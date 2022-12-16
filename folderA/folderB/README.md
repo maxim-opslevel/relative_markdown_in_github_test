@@ -8,4 +8,4 @@
 * [other file at root leading slash](/other_file_at_root.md)
 
 
-Internal Link: ![../../ stops stepping up at project root](../../some_gif.gif)
+Internal Link: ![../../ stops stepping up at project root](../../some_gif-wrong.gif)
